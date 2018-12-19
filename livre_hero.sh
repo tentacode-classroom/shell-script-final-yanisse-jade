@@ -9,6 +9,7 @@ if [ $CHOIX -eq 2 ]
 then
 	clear
 	cat foret/2.txt
+	read CHOIX
 	if [ $CHOIX -eq 4 ]
 	then
 		clear
