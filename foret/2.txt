@@ -1,4 +1,4 @@
-Vous avez attéri dans Tilted Towers, une équipe engage un duel avec vous.
+Vous avez atterri dans Tilted Towers, une équipe engage un duel avec vous.
 
 [4] Affronter l'équipe
 [5] Fuir vers Shifty Shaft

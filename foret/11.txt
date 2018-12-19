@@ -1,2 +1,2 @@
-Vous avez choisi de récupérer la Famas doré au détriment de la Scar, mais vous avez oublié de regarder vos munitions car votre arme n'en contient aucune, vous vous en apercevez en plein duel, trop tard.
+Vous avez choisi de récupérer la Famas doré au détriment de la Scar, mais vous avez oublié de regarder vos munitions et votre arme n'en contient aucune, vous vous en apercevez en plein duel, trop tard.
 Vous êtes mort.
