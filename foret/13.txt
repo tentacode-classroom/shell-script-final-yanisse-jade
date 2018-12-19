@@ -1,0 +1,6 @@
+Vous avez choisi de continuer votre chemin, vous vous dirigez vers Snobby Shores et une construction avec un tremplin est positionné devant vous.
+
+[18] Utiliser le tremplin devant vous
+[19] Continuer a pied
+
+Que voulez-vous faire ?

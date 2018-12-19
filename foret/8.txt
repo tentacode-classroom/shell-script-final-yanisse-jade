@@ -1,0 +1,6 @@
+Vous avez choisi d'affronter la meute de zombie suivi de son grand Goblin, vous les avez démoli avec votre AR bleue. Mais la zone arrive et vous n'avez plus beaucoup de temps.
+
+[14] Prendre le loot des zombies
+[15] Prendre un tremplin
+
+Que voulez-vous faire ?

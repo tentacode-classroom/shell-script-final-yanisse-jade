@@ -1,0 +1,6 @@
+Vous avez attéri dans Greasy Groove, pas d'équipe a l'horizon, mais toujours pas de bon loot pour vous.
+
+[6] Continuer a fouiller les coffres
+[7] Changer de ville
+
+Que souhaitez vous faire?
